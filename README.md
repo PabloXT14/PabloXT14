@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pablo Alan</h1>
 <h3 align="center">I am a programming student in Web Development and Games at Unity</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="pabloxt14" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="pabloxt14" /> </p> --> <!-- Contador de views no seu profile -->
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C#, NODE
 
@@ -18,9 +18,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true" alt="pabloxt14"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> 
 </p>
+
+
+<div align="center" >
+<!--   QUADRO DE STATUS DE COMMIT... -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true" alt="pabloxt14"/>
+  <br> 
+<!--   QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 <p align="center">
 <a href="https://codepen.io/PabloXT14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pabloxt14" height="20" width="20" /></a>
