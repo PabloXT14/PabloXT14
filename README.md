@@ -8,7 +8,11 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- 📫 How to reach me **pabloxt14@gmail.com**
+- 📫 How to reach me: <a href="mailto:pabloxt14@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" /></a> 
+  <a href="https://www.linkedin.com/in/pabloalan/"><img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" /></a>
+  <a href="https://wa.me/message"><img src="https://img.shields.io/badge/Whatsapp-brightgreen?style=flat&logo=WhatsApp&logoColor=white&labelColor=brightgreen"/>
+  </a>
+
 
 - ⚡ Fun fact **Oneye 😜**
 
