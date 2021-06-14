@@ -8,11 +8,9 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- 📫 How to reach me: <a href="mailto:pabloxt14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" /></a> 
-  <a href="https://www.linkedin.com/in/pabloalan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" /></a>
-  <a href="https://bityli.com/E8F8l" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-brightgreen?style=flat&logo=WhatsApp&logoColor=white&labelColor=brightgreen"/>
-  <!-- Para saber com gerar link do seu watsap basta pesquisar isto mesmo -->
-  </a>
+- 📫 How to reach me: <a href="mailto:pabloxt14@gmail.com" target="_parent" ><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" /></a> 
+  <a href="https://www.linkedin.com/in/pabloalan/" target="_parent" ><img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" /></a>
+  <a href="https://bityli.com/E8F8l" target="_blank" ><img src="https://img.shields.io/badge/Whatsapp-brightgreen?style=flat&logo=WhatsApp&logoColor=white&labelColor=brightgreen"/></a>
 
 
 - ⚡ Fun fact **Oneye 😜**
