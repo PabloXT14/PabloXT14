@@ -2,7 +2,7 @@
 <h3 align="center">I am a programming student in Web Development and Games at Unity</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="pabloxt14" /> </p> --> <!-- Contador de views no seu profile -->
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C#, NODE
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React JS, NODE
 
 - 👨‍💻 All of my projects are available at [github.com/PabloXT14](https://github.com/PabloXT14)
 
@@ -29,6 +29,8 @@
 <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Pablo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+<img align="center" alt="Pablo-ReactJS" width="40" src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png?width=256&s=3f7493995143d3cf40b1fedc582607cea194b579"> 
+ 
 </p>
 
 
