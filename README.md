@@ -16,13 +16,6 @@
 - ⚡ Fun fact **Oneye 😜**
 
 <p align="left">
-<!-- Past Icons --> 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">  -->
 <!-- New Icons -->  
 <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -36,23 +29,28 @@
 
 <div align="center" >
 <!--  QUADRO DE STATUS DE COMMIT... -->
+  <img     src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" />
   
-  [![Pablo Alan's github stats](https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-<!--  2ª opção de código para fazer a mesma coisa -->
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true" alt="pabloxt14"/> -->
+  <!--  2ª opção de código para fazer a mesma coisa -->
+  
+<!--   [![Pablo Alan's github stats](https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) -->
+
   <br>
-<!--  QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+<!--  QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
+  
+  <!--  2ª opção de código para fazer a mesma coisa -->
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
 
 <p align="center">
-<a href="https://codepen.io/PabloXT14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pabloxt14" height="20" width="20" /></a>
-<a href="https://twitter.com/PabloAl73579607" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pabloalan" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/pabloalan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pabloalan" height="20" width="20" /></a>
-<a href="https://fb.com/pablo.alan.336" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pabloalan" height="20" width="20" /></a>
-<a href="https://instagram.com/pabloalan3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pabloalan" height="20" width="20" /></a>
+<a href="https://codepen.io/PabloXT14" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="pabloxt14" height="20" width="20" /></a>
+<a href="https://twitter.com/PabloAl73579607" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pabloalan" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/pabloalan/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pabloalan" height="20" width="20" /></a>
+<a href="https://fb.com/pablo.alan.336" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pabloalan" height="20" width="20" /></a>
+<a href="https://instagram.com/pabloalan3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pabloalan" height="20" width="20" /></a>
 </p>
 
 <!--
