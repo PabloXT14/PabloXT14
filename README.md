@@ -38,7 +38,7 @@
   <br>
   
 <!--  QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=6&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
   
   <!--  2ª opção de código para fazer a mesma coisa -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats) -->
