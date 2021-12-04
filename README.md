@@ -65,5 +65,6 @@
 ##
 
 <!-- ===== ANIMAÇÃO DA COBRINHA ===== -->
-![Animação de cobra](https://github.com/pabloxt14/pabloxt14/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/PabloXT14/PabloXT14/blob/output/github-contribution-grid-snake.svg)
 
