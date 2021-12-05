@@ -1,24 +1,61 @@
 <!-- ===== APRESENTATION ===== -->
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pablo Alan</h1>
-<h3 align="center">I am a programming student in Web Development and Games at Unity</h3>
+<h3 align="center">I am a programming student in Web Development (focusing on Front-end) and also creating Games at Unity</h3>
 
-- 🌱 I’m currently learning: HTML, CSS, JavaScript, React JS, NODE
+- 🔭 I’m currently learning: ReactJS and NodeJS
+
 - 👨‍💻 All of my projects are available at: [github.com/PabloXT14](https://github.com/PabloXT14)
-- 💬 Ask me about: *JavaScript, HTML, CSS**
+
+- 💬 Ask me about: **JavaScript, HTML, CSS, ReactJS**
+
 - ⚡ Fun fact **Oneye 😜**
+<br/>
+
+## 🛠 &nbsp;Tech Stack
 
 <!-- ===== ICONS PROGRAME LANGUAGES ===== --> 
 <p align="left"> 
-  <img align="center" alt="Pablo-JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!--   <img align="center" alt="Pablo-JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-TS" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
   <img align="center" alt="Pablo-ReactJS" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> 
   <img align="center" alt="Pablo-HTML" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
   <img align="center" alt="Pablo-CSS" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
   <img align="center" alt="Pablo-Node" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img align="center" alt="Pablo-Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Pablo-Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![ReactJS](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![C-Sharp](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
 </p>
 
-##
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<!-- ===== PROFILE GITHUB DETAILS ===== -->
+<div align="center" >
+  <!--  QUADRO DE STATUS DE COMMIT... -->
+  <!-- Tema mais escuro -->
+  <!--   <img height="190" src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" /> -->
+  <!-- Tema +ou- escuro -->
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=vision-friendly-dark" alt="pabloxt14's stats"/>
+  
+  <!--  QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
+  <!-- Tema mais escuro -->
+  <!-- <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" /> -->
+  <!-- Tema +ou- escuro -->
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="pabloxt14's most languages"/>
+</div>
+
+
+## 👨🏽‍🦲 &nbsp;Social Links
 
 <!-- ===== LINKS CONTACT ===== -->
 <div>
@@ -47,24 +84,8 @@
 
 <br/>
 
-<!-- ===== PROFILE GITHUB DETAILS ===== -->
-<div align="center" >
-  <!--  QUADRO DE STATUS DE COMMIT... -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" height="190"/>
-  
-  <!--  2ª opção de código para fazer a mesma coisa -->
-  <!--   [![Pablo Alan's github stats](https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)    -->
-  
-<!--  QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" height="190"/>
-  
-  <!--  2ª opção de código para fazer a mesma coisa -->
-  <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)   -->
-</div>
-
-##
+## 🎮 &nbsp;Snake Animation
 
 <!-- ===== ANIMAÇÃO DA COBRINHA ===== -->
-
 ![Snake animation](https://github.com/PabloXT14/PabloXT14/blob/output/github-contribution-grid-snake.svg)
 
