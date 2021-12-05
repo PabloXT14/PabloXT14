@@ -58,29 +58,29 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <!-- ===== LINKS CONTACT ===== -->
-<div>
+<p align="left">
   <a href="https://www.linkedin.com/in/pabloalan/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Pablo Alan" />
   </a>
   <a href="mailto:pabloxt14@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Pablo Alan" />
   </a>
   <a href="https://instagram.com/pabloalan3" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Pablo Alan"/>
   </a>
   <a href="https://bityli.com/E8F8l">
-    <img align="center" src="https://img.shields.io/badge/Whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Pablo Alan"/>
   </a>
   <a href="https://twitter.com/PabloAl73579607" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter PabloAlan" />
-  </a>  
+  </a>
   <a href="https://codepen.io/PabloXT14" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen PabloXT14" />
   </a>
   <a href="https://fb.com/pablo.alan.336" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Pablo Alan" />
-  </a>  
-</div>
+  </a>
+</p>
 
 <br/>
 
