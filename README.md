@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at: [github.com/PabloXT14](https://github.com/PabloXT14)
 
-- 💬 Ask me about: **JavaScript, HTML, CSS, ReactJS**
+- 💬 Ask me about: **JavaScript, HTML, CSS, ReactJS, NodeJS**
 
 - ⚡ Fun fact **Oneye 😜**
 <br/>
