@@ -1,8 +1,8 @@
 <!-- ===== APRESENTATION ===== -->
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pablo Alan</h1>
+<h1 align="center">Hi dear 🤙, I'm Pablo Alan</h1>
 <h3 align="center">I am a programming student in Web Development (focusing on Front-end)</h3>
 
-- 🔭 I’m currently learning: ReactJS and NodeJS
+- 🔭 I’m currently learning: ReactJS, NodeJS and React Native
 
 - 👨‍💻 All of my projects are available at: [github.com/PabloXT14](https://github.com/PabloXT14)
 
