@@ -2,7 +2,13 @@
 <h1 align="center">Hi dear 🤙, I'm Pablo Alan</h1>
 <h3 align="center">I am a programming student in Web Development (focusing on Front-end)</h3>
 
-- 🔭 I’m currently learning: ReactJS, NodeJS and React Native
+<img src="https://i.pinimg.com/564x/5f/64/6b/5f646bc9e6a3288bb204028bb22d7ea4.jpg" alt="A boy listen music in your room" width="100%" align="center">
+
+---
+
+- 🔥 I'm a Junior Web Developer
+
+- 📚 I’m currently learning: ReactJS, NodeJS and React Native
 
 - 💻 All of my projects are available at: [github.com/PabloXT14](https://github.com/PabloXT14)
 
@@ -12,15 +18,8 @@
 ## 🛠 &nbsp;Tech Stack
 
 <!-- ===== ICONS PROGRAME LANGUAGES ===== --> 
-<p align="left"> 
-<!--   <img align="center" alt="Pablo-JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pablo-TS" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-  <img align="center" alt="Pablo-ReactJS" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> 
-  <img align="center" alt="Pablo-HTML" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-  <img align="center" alt="Pablo-CSS" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-  <img align="center" alt="Pablo-Node" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img align="center" alt="Pablo-Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  
+<p align="left">
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
@@ -30,7 +29,7 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-  ![C-Sharp](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+
 </p>
 
 
