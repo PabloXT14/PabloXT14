@@ -2,7 +2,9 @@
 <h1 align="center">Hi dear 🤙, I'm Pablo Alan</h1>
 <h3 align="center">I am a programming student in Web Development (focusing on Front-end)</h3>
 
-<img src="https://i.pinimg.com/564x/5f/64/6b/5f646bc9e6a3288bb204028bb22d7ea4.jpg" alt="A boy listen music in your room" width="100%" align="center">
+<p align="center">
+  <img src="https://i.pinimg.com/564x/5f/64/6b/5f646bc9e6a3288bb204028bb22d7ea4.jpg" alt="A boy listen music in your room" width="35%">
+</p>
 
 ---
 
