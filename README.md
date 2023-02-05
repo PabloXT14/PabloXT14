@@ -3,7 +3,7 @@
 <h3 align="center">I am a programming student in Web Development (focusing on Front-end)</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/5f/64/6b/5f646bc9e6a3288bb204028bb22d7ea4.jpg" alt="A boy listen music in your room" width="35%">
+  <img src="https://images8.alphacoders.com/973/973575.jpg" height="400" alt="" />
 </p>
 
 ---
