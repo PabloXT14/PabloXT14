@@ -8,13 +8,13 @@
 
 ---
 
-- 🔥 I'm a Junior Web Developer
+- 🔥 I'm a developer focused on front-end
 
 - 📚 I’m currently learning: ReactJS, NodeJS and React Native
 
 - 💻 All of my projects are available at: [github.com/PabloXT14](https://github.com/PabloXT14)
 
-- 💬 Ask me about: **JavaScript, HTML, CSS, ReactJS, NodeJS**
+- 💬 Ask me about: **ReactJS, NodeJS, React Native**
 <br/>
 
 ## 🛠 &nbsp;Tech Stack
