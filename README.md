@@ -79,12 +79,6 @@
   <a href="https://twitter.com/PabloAl73579607" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter PabloAlan" />
   </a>
-  <a href="https://codepen.io/PabloXT14" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen PabloXT14" />
-  </a>
-  <a href="https://fb.com/pablo.alan.336" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Pablo Alan" />
-  </a>
 </p>
 
 <br/>
