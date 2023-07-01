@@ -36,6 +36,7 @@
   ![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=#FF69B4)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-%2320232a.svg?style=for-the-badge&logo=node.js)&nbsp;
   ![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=green)&nbsp;
+  ![Fastify](https://img.shields.io/badge/fastify-%2320232a.svg?style=for-the-badge&logo=fastify)&nbsp;
   ![Prisma](https://img.shields.io/badge/Prisma-%2320232a.svg?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
   ![Postgres](https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=#316192)&nbsp;
   ![Jest](https://img.shields.io/badge/-jest-%2320232a.svg?style=for-the-badge&logo=jest&logoColor=red)&nbsp;
