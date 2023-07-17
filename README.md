@@ -17,9 +17,10 @@
 - 💻 See my portfolio at: [Link to Portfolio](https://pabloalan-portfolio.vercel.app/)
 
 - 💬 Ask me about: **ReactJS, NodeJS, React Native**
-<br/>
 
-## 🛠 &nbsp;Tech Stack
+---
+
+## 🛠 Tech Stack
 
 <!-- ===== ICONS PROGRAME LANGUAGES ===== --> 
 <p align="left">
@@ -45,26 +46,22 @@
 
 </p>
 
+---
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <!-- ===== PROFILE GITHUB DETAILS ===== -->
 <div align="center" >
   <!--  QUADRO DE STATUS DE COMMIT... -->
-  <!-- Tema mais escuro -->
-  <!--   <img height="190" src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" /> -->
-  <!-- Tema +ou- escuro -->
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=vision-friendly-dark" alt="pabloxt14's stats"/>
   
   <!--  QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
-  <!-- Tema mais escuro -->
-  <!-- <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97" /> -->
-  <!-- Tema +ou- escuro -->
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="pabloxt14's most languages"/>
 </div>
 
+---
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🔗 Social Links
 
 <!-- ===== LINKS CONTACT ===== -->
 <p align="center">
@@ -81,11 +78,3 @@
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter PabloAlan" />
   </a>
 </p>
-
-<br/>
-
-## 🎮 &nbsp;Snake Animation
-
-<!-- ===== ANIMAÇÃO DA COBRINHA ===== -->
-![Snake animation](https://github.com/PabloXT14/PabloXT14/blob/output/github-contribution-grid-snake.svg)
-
