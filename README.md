@@ -11,13 +11,8 @@
 ---
 
 - 🔥 I'm a developer focused on front-end
-
 - 📚 I’m currently studing: ReactJS, NodeJS and React Native
-
-- 💻 See my portfolio at: ![Static Badge](https://img.shields.io/badge/portfolio-x?label=link&color=%230369a1&link=https%3A%2F%2Fpabloalan-portfolio.vercel.app%2F)
-
-
-
+- 💻 See my portfolio at: https://pabloalan-portfolio.vercel.app/
 - 💬 Ask me about: **ReactJS, NodeJS, React Native**
 
 ---
