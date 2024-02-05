@@ -49,7 +49,7 @@
 
 <!-- ===== PROFILE GITHUB DETAILS ===== -->
 <div align="center" >
-  <!--  QUADRO DE STATUS DE COMMIT... -->
+  <!--  QUADRO DE STATUS DE COMMIT -->
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=vision-friendly-dark" alt="pabloxt14's stats"/>
   
   <!--  QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
