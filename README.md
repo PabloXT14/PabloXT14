@@ -3,13 +3,13 @@
 
 ## Hi Gyus 👋
 
-Sou um desenvolvedor Full Stack apaixonado por transformar linhas de código em soluções inovadoras e funcionais, e sempre estudando para aprender mais e mais.
+Sou um desenvolvedor Full Stack apaixonado por transformar linhas de código em soluções inovadoras e funcionais, e estou sempre estudando para aprender mais e mais.
 
 🚀 Estou cursando a faculdade de Engenheiro de Software, para que possa me aprofundar ainda mais a fundo no ramo da tecnologia.<br/>
-💜 Estou sempre aberto para colaborar em projetos com React/Next/Node.<br/>
-😊 Posso de ajudar com HTML, CSS, JavaScript, Typescript, React, Next.js, Tailwind, Node.js e React Native.<br/>
+💜 Sempre aberto para colaborar em projetos com React/Next/Node.<br/>
+😊 Posso te ajudar com HTML, CSS, JavaScript, Typescript, React, Next.js, Tailwind, Node.js e React Native.<br/>
 💻 Minha stack de tecnologias consiste principalmente de: JavaScript, Typescript, ReactJS, Next.js, Node.js e React Native.<br/>
-💬 Curiosidade sobre mim: Adora tudo relacionado a tecnologia e sou também ping-pong 🏓😁!<br/>
+💬 Curiosidade sobre mim: Adora tudo relacionado a tecnologia e também ping-pong 🏓😁!<br/>
 📧 Contato:
 [![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Alan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pabloalan/)](https://www.linkedin.com/in/pabloalan/)
 [![Gmail Badge](https://img.shields.io/badge/-pabloxt14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabloxt14@gmail.com)](mailto:pabloxt14@gmail.com)
