@@ -1,21 +1,18 @@
 <!-- ===== APRESENTATION ===== -->
-<h1 align="center">Hi dear 🤙, I'm Pablo Alan</h1>
-<p align="center">
-  <img
-    src="https://i.pinimg.com/564x/40/31/00/403100c729d0ef4551aeadfa57d9cbf7.jpg"
-    height="400"
-    alt=""
-  />
-</p>
+# Pablo Alan
 
----
+## Hi Gyus 👋
 
-- 🔥 I'm a developer focused on front-end
-- 📚 I’m currently studing: ReactJS, NodeJS and React Native
-- 💻 See my portfolio at: https://pabloalan-portfolio.vercel.app/
-- 💬 Ask me about: **ReactJS, NodeJS, React Native**
+Sou um desenvolvedor Full Stack apaixonado por transformar linhas de código em soluções inovadoras e funcionais, e sempre estudando para aprender mais e mais.
 
----
+🚀 Estou cursando a faculdade de Engenheiro de Software, para que possa me aprofundar ainda mais a fundo no ramo da tecnologia.<br/>
+💜 Estou sempre aberto para colaborar em projetos com React/Next/Node.<br/>
+😊 Posso de ajudar com HTML, CSS, JavaScript, Typescript, React, Next.js, Tailwind, Node.js e React Native.<br/>
+💻 Minha stack de tecnologias consiste principalmente de: JavaScript, Typescript, ReactJS, Next.js, Node.js e React Native.<br/>
+💬 Curiosidade sobre mim: Adora tudo relacionado a tecnologia e sou também ping-pong 🏓😁!<br/>
+📧 Contato:
+[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Alan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pabloalan/)](https://www.linkedin.com/in/pabloalan/)
+[![Gmail Badge](https://img.shields.io/badge/-pabloxt14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabloxt14@gmail.com)](mailto:pabloxt14@gmail.com)
 
 ## 🛠 Tech Stack
 
@@ -43,8 +40,6 @@
 
 </p>
 
----
-
 ## ⚙️ GitHub Analytics
 
 <!-- ===== PROFILE GITHUB DETAILS ===== -->
@@ -55,23 +50,3 @@
   <!--  QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="pabloxt14's most languages"/>
 </div>
-
----
-
-## 🔗 Social Links
-
-<!-- ===== LINKS CONTACT ===== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/pabloalan/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Pablo Alan" />
-  </a>
-  <a href="mailto:pabloxt14@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Pablo Alan" />
-  </a>
-  <a href="https://instagram.com/pabloalan3" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Pablo Alan"/>
-  </a>
-  <a href="https://twitter.com/PabloAl73579607" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter PabloAlan" />
-  </a>
-</p>
