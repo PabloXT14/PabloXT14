@@ -44,9 +44,13 @@ Sou um desenvolvedor Full Stack apaixonado por transformar linhas de código em 
 
 <!-- ===== PROFILE GITHUB DETAILS ===== -->
 <div align="center" >
-  <!--  QUADRO DE STATUS DE COMMIT -->
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=vision-friendly-dark" alt="pabloxt14's stats"/>
   
+  <!--  QUADRO DE STATUS DE COMMIT -->
+  ![](https://github-readme-stats.vercel.app/api?username=pabloxt14&show_icons=true&theme=dark)
+
   <!--  QUADRO COM PORCENTAGEM DAS LINGUAGENS DE PROGRAMAÇÃO -->
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="pabloxt14's most languages"/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloxt14&layout=compact&langs_count=7&theme=dark)
+
+  <!-- QUADRO SEQUÊNCIA DE COMMITS-->
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=pabloxt14&theme=dark&hide_border=false)
 </div>
