@@ -1,7 +1,7 @@
 <!-- ===== APRESENTATION ===== -->
 # Pablo Alan
 
-## Hi Gyus 👋
+## Hi Guys 👋
 
 Sou um desenvolvedor Full Stack apaixonado por transformar linhas de código em soluções inovadoras e funcionais, e estou sempre estudando para aprender mais e mais.
 
