@@ -3,7 +3,7 @@
 
 ## Hi Guys 👋
 
-Sou um desenvolvedor Full Stack apaixonado por transformar linhas de código em soluções inovadoras e funcionais, e estou sempre estudando para aprender mais e mais.
+Sou um desenvolvedor Full Stack apaixonado por transformar linhas de código em soluções inovadoras e funcionais, e estou sempre estudando para aprender mais e mais, e também aberto a novas oportunidades e desafios.
 
 🚀 Estou cursando a faculdade de Engenheiro de Software, para que possa me aprofundar ainda mais a fundo no ramo da tecnologia.<br/>
 💜 Sempre aberto para colaborar em projetos com React/Next/Node.<br/>
