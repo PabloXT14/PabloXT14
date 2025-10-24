@@ -3,15 +3,30 @@
 
 ## Hi Guys 👋
 
-Sou um desenvolvedor Full Stack apaixonado por transformar linhas de código em soluções inovadoras e funcionais, estou sempre estudando para aprender mais e mais, além de estar sempre aberto a novas oportunidades e desafios.
+Sou desenvolvedor de software com experiência em soluções web e mobile completas, atuando do frontend ao backend. Tenho mais de 2 anos de prática profissional, criando desde landing pages, e-commerces e sistemas corporativos até dashboards interativos e aplicativos mobile.
 
-🚀 Estou cursando a faculdade de Engenheiro de Software, para que possa me aprofundar ainda mais a fundo no ramo da tecnologia.<br/>
-💜 Sempre aberto para colaborar em projetos com React/Next/Node.<br/>
-😊 Posso te ajudar com HTML, CSS, JavaScript, Typescript, React, Next.js, Tailwind, Node.js e React Native.<br/>
-💻 Minha stack de tecnologias consiste principalmente de: JavaScript, Typescript, ReactJS, Next.js, Node.js e React Native.<br/>
-💬 Curiosidade sobre mim: Adora tudo relacionado a tecnologia e também ping-pong 🏓😁!<br/>
+Minha especialidade é transformar ideias em aplicações funcionais, intuitivas e escaláveis, sempre priorizando a experiência do usuário e a performance técnica. Já atuei em projetos para diferentes setores, incluindo varejo e agroindústria, entregando aplicações com integração a indicadores e dados estratégicos.
+
+
+🎯 Competências principais:
+
+Frontend: React, Next.js, JavaScript, HTML, CSS, TailwindCSS
+
+Backend: Node.js, TypeScript, Express, Fastify, SQL, APIs REST
+
+Mobile: React Native, Expo e TypeScript
+
+Ferramentas & Boas Práticas: Git, GitHub, SOLID, Testes, Integração Contínua
+
+🎓 Atualmente curso Engenharia de Software (UNINTER) e já participei de programas de aceleração como o Ignite da Rocketseat, onde desenvolvi projetos práticos com tecnologias modernas e foco em qualidade de código.
+
+🚀 Apaixonado por tecnologia, busco constantemente aprimorar minhas habilidades para contribuir de forma estratégica e criativa em projetos inovadores. Estou aberto a novos desafios e a oportunidades que me permitam crescer junto com a equipe e a empresa.
+
+💬 Curiosidade sobre mim: Adora tudo relacionado a tecnologia e também tênis de mesa 🏓😁!
+
 📧 Contato:
-[![Linkedin Badge](https://img.shields.io/badge/-Pablo%20Alan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pabloalan/)](https://www.linkedin.com/in/pabloalan/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pabloalan/)](https://www.linkedin.com/in/pabloalan/)
 [![Gmail Badge](https://img.shields.io/badge/-pabloxt14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabloxt14@gmail.com)](mailto:pabloxt14@gmail.com)
 
 ## 🛠 Tech Stack
