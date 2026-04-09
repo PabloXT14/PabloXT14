@@ -3,7 +3,7 @@
 
 ## Hi Guys 👋
 
-Sou desenvolvedor de software cuja jornada começou há 7 anos, impulsionada pela curiosidade em entender como as coisas funcionavam e pela relação entre porgramação e design. Desde então, venho evoluindo entre web e mobile, integrando soluções com foco em qualidade e experiência do usuário.
+Sou desenvolvedor de software cuja jornada começou há 7 anos, impulsionada pela curiosidade em entender como as coisas funcionavam e pela relação entre programação e design. Desde então, venho evoluindo entre web e mobile, integrando soluções com foco em qualidade e experiência do usuário.
 
 Minha especialidade é transformar ideias em aplicações funcionais, intuitivas e escaláveis, sempre priorizando a experiência do usuário e a performance técnica. Já atuei em projetos para diferentes setores, incluindo varejo e agroindústria, contando com o desenvolvimento de landing pages, dashboards de indicadores financeiros e aplicativos mobile. Sempre entregando aplicações com integração a indicadores e dados estratégicos.
 
